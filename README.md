@@ -10,10 +10,10 @@ _A Python pip package for converting videos to sequential image frames_
 
 ### AVAILABLE ON PIP
 
-https://pypi.org/project/videotooimage/ <br>
+https://pypi.org/project/videotoooimage/ <br>
 
 ```
-pip install videotooimage
+pip install videotoooimage
 ```
 
 <br><br>
@@ -33,8 +33,8 @@ pip install videotooimage
 Python3
 
 ```
-import videotooimage
-result = videotooimage.video_too_image("path/to/video/directory","path/to/output/directory")
+import videotoooimage
+result = videotoooimage.video_too_image("path/to/video/directory","path/to/output/directory")
 print(result)
 ```
 
@@ -42,7 +42,7 @@ print(result)
 
 ### PURPOSE
 
-- videotooimage is a Python package that provides functionality to convert video files into sequences of images. <br>
+- videotoooimage is a Python package that provides functionality to convert video files into sequences of images. <br>
 - It utilizes the OpenCV library (cv2) to process video files and extract frames. <br>
 - This package is useful for tasks such as video analysis, object detection, and machine learning model training using video data.
   <br><br><br>
@@ -71,13 +71,13 @@ print(result)
 ### OUTPUTS
 
 - PyPI Package <br><br>
-  ![1](./outputs/images/output.png)
+  ![1](./outputs/images/pypi.png)
 
 - Processing <br><br>
   ![2](./outputs/images/output.png)
 
 - Folder Structure after processing <br><br>
-  ![3](./outputs/images/output.png)
+  ![3](./outputs/images/codepypi.png)
 
 <br>
 
@@ -135,7 +135,7 @@ This package is licensed under the MIT License.
 Contributions and feedback are welcome! <br>
 Please submit issues or pull requests on GitHub. <br>
 
-GitHub: https://github.com/raghavavidyapriya/videotooimage/
+GitHub: https://github.com/raghavavidyapriya/videotoooimage/
 <br><br>
 
 _END OF README_
