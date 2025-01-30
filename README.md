@@ -20,9 +20,11 @@ pip install videotoooimage
 
 ### PROTOTYPE VIDEO
 
-- PyPI
 
-- Local
+
+https://github.com/user-attachments/assets/2746fc75-aafe-4370-a271-1651531a36f5
+
+
 
 <br><br>
 
